@@ -38,8 +38,8 @@
         {
           "type": "image_group",
           "images": [
-            { "url": "https://imgur.com/VBbvPmg", "alt": { "en": "Team arriving at resort", "cn": "团队抵达度假村", "kr": "리조트에 도착한 팀", "jp": "リゾートに到着したチーム" } }, 
-            { "url": "https://imgur.com/w6JzsSt", "alt": { "en": "Beautiful lake view", "cn": "美丽的湖景", "kr": "아름다운 호수 전망", "jp": "美しい湖の眺め" } }
+            { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": "Team arriving at resort", "cn": "团队抵达度假村", "kr": "리조트에 도착한 팀", "jp": "リゾートに到着したチーム" } }, 
+            { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": "Beautiful lake view", "cn": "美丽的湖景", "kr": "아름다운 호수 전망", "jp": "美しい湖の眺め" } }
           ],
           "caption": { 
             "en": "The stunning views welcomed us as we kicked off our retreat.", 
