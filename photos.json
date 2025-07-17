@@ -1,33 +1,33 @@
 [
   {
     "id": "event-2025-summer-retreat",
-    "languages": ["en", "zh", "ja"],
+    "languages": ["en", "cn", "kr", "jp", "ru"],
     "abstract": {
       "imageUrl": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/summary_summer_retreat.jpg",
       "title": { 
         "en": "Summer Retreat: Fun & Connection", 
-        "zh": "夏日团建：乐趣与连结", 
-        "ja": "夏の研修：楽しみと絆" 
+        "cn": "夏日团建：乐趣与连结", 
+        "kr": "夏の研修：楽しみと絆" 
       },
       "previewText": { 
         "en": "Our team had an amazing summer retreat, filled with laughter, teamwork, and unforgettable moments. Discover how we bonded!", 
-        "zh": "我们的团队度过了一个美妙的夏日团建，充满欢声笑语、团队合作和难忘的时刻。一起来看看我们是如何建立联系的吧！", 
-        "ja": "チームは笑いとチームワーク、忘れられない瞬間で満たされた素晴らしい夏の研修を過ごしました。私たちがどのように絆を深めたかをご覧ください！" 
+        "cn": "我们的团队度过了一个美妙的夏日团建，充满欢声笑语、团队合作和难忘的时刻。一起来看看我们是如何建立联系的吧！", 
+        "kr": "チームは笑いとチームワーク、忘れられない瞬間で満たされた素晴らしい夏の研修を過ごしました。私たちがどのように絆を深めたかをご覧ください！" 
       }
     },
     "details": {
       "mainTitle": { 
         "en": "Unforgettable Summer Getaway", 
-        "zh": "难忘的夏日之旅", 
-        "ja": "忘れられない夏の思い出" 
+        "cn": "难忘的夏日之旅", 
+        "kr": "忘れられない夏の思い出" 
       },
       "contentBlocks": [
         {
           "type": "paragraph",
           "text": { 
             "en": "Our annual summer retreat took us to a beautiful lakeside resort. The goal was to relax, recharge, and strengthen our team bonds outside the office environment.", 
-            "zh": "我们的年度夏日团建活动将我们带到了一个美丽的湖畔度假村。目标是在办公室环境之外放松、充电并加强团队凝聚力。", 
-            "ja": "毎年恒例の夏の研修では、美しい湖畔のリゾートへ行きました。オフィス環境を離れてリラックスし、活力をチャージし、チームの絆を深めることが目的でした。" 
+            "cn": "我们的年度夏日团建活动将我们带到了一个美丽的湖畔度假村。目标是在办公室环境之外放松、充电并加强团队凝聚力。", 
+            "kr": "毎年恒例の夏の研修では、美しい湖畔のリゾートへ行きました。オフィス環境を離れてリラックスし、活力をチャージし、チームの絆を深めることが目的でした。" 
           }
         },
         {
@@ -147,14 +147,14 @@
     }
   },
   {
-    "id": "event-2025-cultural-exchange",
-    "languages": ["ja"],
+    "id": "event_1",
+    "languages": ["en", "cn", "kr", "jp", "ru"],
     "abstract": {
-      "imageUrl": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/summary_cultural_exchange.jpg",
+      "imageUrl": "https://imgur.com/VBbvPmg",
       "title": { 
-        "en": "Cultural Exchange Day", 
-        "zh": "文化交流日", 
-        "ja": "異文化交流デー" 
+        "en": "Safety production praying ceremony", 
+        "cn": "安全生产祈愿仪式", 
+        "kr": "무재해 안전기원제" 
       },
       "previewText": { 
         "en": "A unique day dedicated to exploring and appreciating Japanese traditional culture. A truly immersive experience for our team.", 
