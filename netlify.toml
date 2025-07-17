@@ -1,11 +1,8 @@
-# netlify.toml 文件内容（在你 photos.json 所在的 GitHub 仓库中）
 [[headers]]
-  for = "/photos.json" # JSON文件在根目录，所以路径是 /photos.json
+  for = "/photos.json" 
   [headers.values]
-    # 这一行非常重要，它允许你的 Live Server 访问
     Access-Control-Allow-Origin = "http://127.0.0.1:5500" 
-    # 如果你未来部署到 GitHub Pages，可能还需要同时包含它：
-    # Access-Control-Allow-Origin = ["http://127.0.0.1:5500", "https://your-github-username.github.io"]
+
     Access-Control-Allow-Methods = "GET, OPTIONS"
     Access-Control-Allow-Headers = "Content-Type"
-    Cache-Control = "public, max-age=3600" # 建议设置缓存
+    Cache-Control = "public, max-age=3600" #设置缓存
