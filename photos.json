@@ -1,19 +1,20 @@
 [
   {
     "id": "event-2025-summer-retreat",
-    "languages": ["en", "cn", "ko"], // 编组html时候注意统一化名
+    "languages": ["en", "cn", "kr", "ru", "jp"], 
+
     "abstract": {
       "imageUrl": "https://imgur.com/w6JzsSt",
       "title": { 
         "en": "Summer Retreat: Fun & Connection", 
         "cn": "夏日团建：乐趣与连结", 
-        "ko": "여름 워크숍: 즐거움과 연결", 
+        "kr": "여름 워크숍: 즐거움과 연결", 
         "jp": "夏の研修：楽しみと絆" 
       },
       "previewText": { 
         "en": "Our team had an amazing summer retreat, filled with laughter, teamwork, and unforgettable moments. Discover how we bonded!", 
         "cn": "我们的团队度过了一个美妙的夏日团建，充满欢声笑语、团队合作和难忘的时刻。一起来看看我们是如何建立联系的吧！", 
-        "ko": "우리 팀은 웃음과 팀워크, 잊지 못할 순간들로 가득한 멋진 여름 워크숍을 보냈습니다. 우리가 어떻게 유대감을 형성했는지 알아보세요！", 
+        "kr": "우리 팀은 웃음과 팀워크, 잊지 못할 순간들로 가득한 멋진 여름 워크숍을 보냈습니다. 우리가 어떻게 유대감을 형성했는지 알아보세요！", 
         "jp": "チームは笑いとチームワーク、忘れられない瞬間で満たされた素晴らしい夏の研修を過ごしました。私たちがどのように絆を深めたかをご覧ください！" 
       }
     },
@@ -21,7 +22,7 @@
       "mainTitle": { 
         "en": "Unforgettable Summer Getaway", 
         "cn": "难忘的夏日之旅", 
-        "ko": "잊을 수 없는 여름 휴가", 
+        "kr": "잊을 수 없는 여름 휴가", 
         "jp": "忘れられない夏の思い出" 
       },
       "contentBlocks": [
@@ -30,20 +31,20 @@
           "text": { 
             "en": "Our annual summer retreat took us to a beautiful lakeside resort. The goal was to relax, recharge, and strengthen our team bonds outside the office environment.", 
             "cn": "我们的年度夏日团建活动将我们带到了一个美丽的湖畔度假村。目标是在办公室环境之外放松、充电并加强团队凝聚力。", 
-            "ko": "매년 여름 워크숍은 아름다운 호수 리조트로 우리를 데려갔습니다. 목표는 사무실 환경 밖에서 휴식을 취하고 재충전하며 팀 유대감을 강화하는 것이었습니다.", 
+            "kr": "매년 여름 워크숍은 아름다운 호수 리조트로 우리를 데려갔습니다. 목표는 사무실 환경 밖에서 휴식을 취하고 재충전하며 팀 유대감을 강화하는 것이었습니다.", 
             "jp": "毎年恒例の夏の研修では、美しい湖畔のリゾートへ行きました。オフィス環境を離れてリラックスし、活力をチャージし、チームの絆を深めることが目的でした。" 
           }
         },
         {
           "type": "image_group",
           "images": [
-            { "url": "https://imgur.com/VBbvPmg", "alt": { "en": "Team arriving at resort", "cn": "团队抵达度假村", "ko": "리조트에 도착한 팀", "jp": "リゾートに到着したチーム" } }, 
-            { "url": "https://imgur.com/w6JzsSt", "alt": { "en": "Beautiful lake view", "cn": "美丽的湖景", "ko": "아름다운 호수 전망", "jp": "美しい湖の眺め" } }
+            { "url": "https://imgur.com/VBbvPmg", "alt": { "en": "Team arriving at resort", "cn": "团队抵达度假村", "kr": "리조트에 도착한 팀", "jp": "リゾートに到着したチーム" } }, 
+            { "url": "https://imgur.com/w6JzsSt", "alt": { "en": "Beautiful lake view", "cn": "美丽的湖景", "kr": "아름다운 호수 전망", "jp": "美しい湖の眺め" } }
           ],
           "caption": { 
             "en": "The stunning views welcomed us as we kicked off our retreat.", 
             "cn": "当我们开启团建时，迷人的景色迎接了我们。", 
-            "ko": "우리가 워크숍을 시작할 때 멋진 풍경이 우리를 맞이했습니다.", 
+            "kr": "우리가 워크숍을 시작할 때 멋진 풍경이 우리를 맞이했습니다.", 
             "jp": "研修開始時に素晴らしい景色が私たちを歓迎してくれました。" 
           }
         }
@@ -107,19 +108,19 @@
   },
   {
     "id": "event_1",
-    "languages": ["en", "cn", "ko", "jp", "ru"],
+    "languages": ["en", "cn", "kr", "jp", "ru"],
     "abstract": {
       "imageUrl": "https://imgur.com/VBbvPmg",
       "title": { 
         "en": "Safety production praying ceremony", 
         "cn": "安全生产祈愿仪式", 
-        "ko": "무재해 안전기원제", 
+        "kr": "무재해 안전기원제", 
         "jp": "安全生産祈願祭" 
       },
       "previewText": { 
         "en": "A unique day dedicated to exploring and appreciating Japanese traditional culture. A truly immersive experience for our team.", 
         "cn": "一个独特的日子，致力于探索和欣赏日本传统文化。为我们的团队带来了真正的沉浸式体验。", 
-        "ko": "일본 전통 문화를 탐험하고 감상하는 특별한 날. 우리 팀을 위한 진정한 몰입형 경험입니다.", 
+        "kr": "일본 전통 문화를 탐험하고 감상하는 특별한 날. 우리 팀을 위한 진정한 몰입형 경험입니다.", 
         "jp": "日本の伝統文化を探求し、鑑賞することに特化したユニークな一日。私たちのチームにとって真に没入型の体験でした。" 
       }
     },
@@ -127,7 +128,7 @@
       "mainTitle": { 
         "en": "Immersive Japanese Cultural Experience", 
         "cn": "沉浸式日本文化体验", 
-        "ko": "몰입형 일본 문화 체험", 
+        "kr": "몰입형 일본 문화 체험", 
         "jp": "日本の伝統文化体験" 
       },
       "contentBlocks": [
@@ -136,20 +137,20 @@
           "text": { 
             "en": "To foster global understanding and appreciation, our team participated in a special Japanese cultural exchange day. We delved into the intricacies of traditional arts.", 
             "cn": "为了促进全球理解和欣赏，我们的团队参加了一个特殊的日本文化交流日。我们深入探讨了传统艺术的复杂性。", 
-            "ko": "글로벌 이해와 감사를 증진하기 위해 우리 팀은 특별한 일본 문화 교류의 날에 참여했습니다. 우리는 전통 예술의 미묘한 점들을 탐구했습니다.", 
+            "kr": "글로벌 이해와 감사를 증진하기 위해 우리 팀은 특별한 일본 문화 교류의 날에 참여했습니다. 우리는 전통 예술의 미묘한 점들을 탐구했습니다.", 
             "jp": "グローバルな理解と感謝を育むため、チームは特別な日本の異文化交流デーに参加しました。伝統芸術の奥深さに触れました。"
           }
         },
         {
           "type": "image_group",
           "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_tea.jpg", "alt": { "en": "Tea ceremony", "cn": "茶道", "ko": "다도", "jp": "茶道" } }, 
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_kimono.jpg", "alt": { "en": "Kimono experience", "cn": "和服体验", "ko": "기모노 체험", "jp": "着物体験" } }
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_tea.jpg", "alt": { "en": "Tea ceremony", "cn": "茶道", "kr": "다도", "jp": "茶道" } }, 
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_kimono.jpg", "alt": { "en": "Kimono experience", "cn": "和服体验", "kr": "기모노 체험", "jp": "着物体験" } }
           ],
           "caption": { 
             "en": "Learning the art of tea ceremony and trying on traditional kimonos.", 
             "cn": "学习茶道艺术和体验传统和服。", 
-            "ko": "다도 예술을 배우고 전통 기모노를 입어보는 것.", 
+            "kr": "다도 예술을 배우고 전통 기모노를 입어보는 것.", 
             "jp": "茶道の作法を学び、伝統的な着物を試着しました。"
           }
         },
@@ -158,7 +159,7 @@
           "text": { 
             "en": "The day was a truly enriching experience, offering insights into Japan's rich heritage and bringing our diverse team closer together.", 
             "cn": "这一天是一次真正丰富的体验，让我们深入了解了日本丰富的文化遗产，并使我们多元化的团队更加紧密地团结在一起。", 
-            "ko": "이 날은 일본의 풍부한 유산에 대한 통찰력을 제공하고 다양한 팀을 더욱 가깝게 만드는 진정으로 풍요로운 경험이었습니다.", 
+            "kr": "이 날은 일본의 풍부한 유산에 대한 통찰력을 제공하고 다양한 팀을 더욱 가깝게 만드는 진정으로 풍요로운 경험이었습니다.", 
             "jp": "この日は本当に豊かな体験であり、日本の豊かな遺産への洞察を提供し、多様なチームをより緊密に結びつけました。" 
           }
         }
