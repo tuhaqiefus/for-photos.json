@@ -9,6 +9,6 @@
     # xhxcg
     Access-Control-Allow-Methods = "GET, OPTIONS"
     Access-Control-Allow-Headers = "Content-Type"
-    Cache-Control = "public, max-age=3600" # 设置缓存
+    Cache-Control = "public, max-age=36" # 设置缓存，太长的话就有苦头吃了
 
 
