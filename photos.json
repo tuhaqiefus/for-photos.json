@@ -4,11 +4,11 @@
     "languages": ["en", "cn", "kr", "ru", "jp"], 
 
     "abstract": {
-      "imageUrl": "https://imgur.com/VBbvPmg.jpeg",
+      "imageUrl": "https://i.imgur.com/VBbvPmg.jpeg",
 
       "title": { 
         "en": "Summer Retreat: Fun & Connection", 
-        "cn": "夏日团建：乐趣与连结", 
+        "cn": "123夏日团建：乐趣与连结", 
         "kr": "여름 워크숍: 즐거움과 연결", 
         "jp": "夏の研修：楽しみと絆" 
       },
