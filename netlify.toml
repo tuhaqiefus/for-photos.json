@@ -1,14 +1,11 @@
-# netlify.toml 文件内容 (在你 photos.json 的 GitHub 仓库中)
+# netlify.toml 文件内容（在你 photos.json 所在的 GitHub 仓库中）
 [[headers]]
-  for = "/photos.json"
+  for = "/photos.json" # JSON文件在根目录，所以路径是 /photos.json
   [headers.values]
-    # 在本地测试时，添加 localhost 的来源
-    # 请务必替换为你本地服务器实际使用的端口，例如 5500 或 8000
-    Access-Control-Allow-Origin = "http://localhost:5500" # <-- 临时添加或修改这一行
-    # 如果你同时想保留 GitHub Pages 的域名，可以这样写：
-    # Access-Control-Allow-Origin = ["http://localhost:5500", "https://your-github-username.github.io"]
-    # 或者直接允许所有来源（不推荐用于生产环境，但本地测试方便）：
-    # Access-Control-Allow-Origin = "*" 
+    # 这一行非常重要，它允许你的 Live Server 访问
+    Access-Control-Allow-Origin = "http://127.0.0.1:5500" 
+    # 如果你未来部署到 GitHub Pages，可能还需要同时包含它：
+    # Access-Control-Allow-Origin = ["http://127.0.0.1:5500", "https://your-github-username.github.io"]
     Access-Control-Allow-Methods = "GET, OPTIONS"
     Access-Control-Allow-Headers = "Content-Type"
-    Cache-Control = "public, max-age=3600"
+    Cache-Control = "public, max-age=3600" # 建议设置缓存
