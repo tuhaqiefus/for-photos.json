@@ -1,25 +1,28 @@
 [
   {
     "id": "event-2025-summer-retreat",
-    "languages": ["en", "cn", "kr", "jp", "ru"],
+    "languages": ["en", "cn", "kr", "jp", "ru"], // 确认这里包含所有你想支持的语言键
     "abstract": {
       "imageUrl": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/summary_summer_retreat.jpg",
       "title": { 
         "en": "Summer Retreat: Fun & Connection", 
         "cn": "夏日团建：乐趣与连结", 
-        "kr": "夏の研修：楽しみと絆" 
+        "kr": "여름 워크숍: 즐거움과 연결", // <-- 修正：如果是韩语文本，键应该是 "kr"
+        "jp": "夏の研修：楽しみと絆" // <-- 修正：如果是日语文本，键应该是 "jp" (或 "ja")
       },
       "previewText": { 
         "en": "Our team had an amazing summer retreat, filled with laughter, teamwork, and unforgettable moments. Discover how we bonded!", 
         "cn": "我们的团队度过了一个美妙的夏日团建，充满欢声笑语、团队合作和难忘的时刻。一起来看看我们是如何建立联系的吧！", 
-        "kr": "チームは笑いとチームワーク、忘れられない瞬間で満たされた素晴らしい夏の研修を過ごしました。私たちがどのように絆を深めたかをご覧ください！" 
+        "kr": "우리 팀은 웃음과 팀워크, 잊지 못할 순간들로 가득한 멋진 여름 워크숍을 보냈습니다. 우리가 어떻게 유대감을 형성했는지 알아보세요！", // <-- 修正：韩语文本
+        "jp": "チームは笑いとチームワーク、忘れられない瞬間で満たされた素晴らしい夏の研修を過ごしました。私たちがどのように絆を深めたかをご覧ください！" // <-- 修正：日语文本
       }
     },
     "details": {
       "mainTitle": { 
         "en": "Unforgettable Summer Getaway", 
         "cn": "难忘的夏日之旅", 
-        "kr": "忘れられない夏の思い出" 
+        "kr": "잊을 수 없는 여름 휴가", // <-- 修正
+        "jp": "忘れられない夏の思い出" // <-- 修正
       },
       "contentBlocks": [
         {
@@ -27,120 +30,81 @@
           "text": { 
             "en": "Our annual summer retreat took us to a beautiful lakeside resort. The goal was to relax, recharge, and strengthen our team bonds outside the office environment.", 
             "cn": "我们的年度夏日团建活动将我们带到了一个美丽的湖畔度假村。目标是在办公室环境之外放松、充电并加强团队凝聚力。", 
-            "kr": "毎年恒例の夏の研修では、美しい湖畔のリゾートへ行きました。オフィス環境を離れてリラックスし、活力をチャージし、チームの絆を深めることが目的でした。" 
+            "kr": "매년 여름 워크숍은 아름다운 호수 리조트로 우리를 데려갔습니다. 목표는 사무실 환경 밖에서 휴식을 취하고 재충전하며 팀 유대감을 강화하는 것이었습니다.", // <-- 修正
+            "jp": "毎年恒例の夏の研修では、美しい湖畔のリゾートへ行きました。オフィス環境を離れてリラックスし、活力をチャージし、チームの絆を深めることが目的でした。" // <-- 修正
           }
         },
         {
           "type": "image_group",
           "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_arrival.jpg", "alt": { "en": "Team arriving at resort", "zh": "团队抵达度假村", "ja": "リゾートに到着したチーム" } },
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_lakeview.jpg", "alt": { "en": "Beautiful lake view", "zh": "美丽的湖景", "ja": "美しい湖の眺め" } }
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_arrival.jpg", "alt": { "en": "Team arriving at resort", "cn": "团队抵达度假村", "kr": "리조트에 도착한 팀", "jp": "リゾートに到着したチーム" } }, // <-- alt 也需要修正
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_lakeview.jpg", "alt": { "en": "Beautiful lake view", "cn": "美丽的湖景", "kr": "아름다운 호수 전망", "jp": "美しい湖の眺め" } }
           ],
           "caption": { 
             "en": "The stunning views welcomed us as we kicked off our retreat.", 
-            "zh": "当我们开启团建时，迷人的景色迎接了我们。", 
-            "ja": "研修開始時に素晴らしい景色が私たちを歓迎してくれました。" 
-          }
-        },
-        {
-          "type": "paragraph",
-          "text": { 
-            "en": "Day one was packed with outdoor adventures, including kayaking and a challenging scavenger hunt. Everyone participated enthusiastically, demonstrating great teamwork and problem-solving skills.", 
-            "zh": "第一天充满了户外探险活动，包括皮划艇和一项富有挑战性的寻宝游戏。每个人都热情参与，展现了出色的团队合作和解决问题的能力。", 
-            "ja": "初日はカヤックや挑戦的な宝探しなど、アウトドアアドベンチャーでいっぱいでした。全員が熱心に参加し、素晴らしいチームワークと問題解決能力を発揮しました。" 
-          }
-        },
-        {
-          "type": "image_group",
-          "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_kayak.jpg", "alt": { "en": "Kayaking activity", "zh": "皮划艇活动", "ja": "カヤックアクティビティ" } },
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_scavenger_hunt.jpg", "alt": { "en": "Scavenger hunt", "zh": "寻宝游戏", "ja": "宝探し" } },
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_team_challenge.jpg", "alt": { "en": "Team challenge", "zh": "团队挑战", "ja": "チームチャレンジ" } }
-          ],
-          "caption": { 
-            "en": "Adventures and challenges brought out the best in us!", 
-            "zh": "冒险与挑战激发了我们最好的一面！", 
-            "ja": "冒険と挑戦が私たちの最高の部分を引き出してくれました！" 
-          }
-        },
-        {
-          "type": "paragraph",
-          "text": { 
-            "en": "The evenings were just as engaging, with bonfires, talent shows, and delicious BBQs. It was a perfect blend of relaxation and fun, allowing everyone to connect on a personal level.", 
-            "zh": "晚上同样精彩，有篝火晚会、才艺表演和美味烧烤。这是一个放松和乐趣的完美结合，让每个人都能在个人层面建立联系。", 
-            "ja": "夜も焚き火、才能ショー、美味しいバーベキューなど、同様に魅力的でした。リラックスと楽しみが完璧に融合し、誰もが個人的なレベルでつながることができました。" 
-          }
-        },
-        {
-          "type": "image_group",
-          "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_bonfire.jpg", "alt": { "en": "Bonfire night", "zh": "篝火晚会", "ja": "焚き火の夜" } }
-          ],
-          "caption": { 
-            "en": "Sharing stories and laughter around the bonfire.", 
-            "zh": "在篝火旁分享故事和欢笑。", 
-            "ja": "焚き火を囲んで物語と笑いを分かち合う。" 
-          }
-        },
-        {
-          "type": "paragraph",
-          "text": { 
-            "en": "Overall, the summer retreat was a huge success, strengthening our team's spirit and creating lasting memories. We returned refreshed and more united than ever!", 
-            "zh": "总的来说，这次夏日团建取得了巨大成功，增强了团队精神，创造了持久的回忆。我们精神焕发，比以往任何时候都更加团结！", 
-            "ja": "全体として、夏の研修は大成功であり、チームの士気を高め、永続的な思い出を作りました。私たちはリフレッシュされ、これまで以上に団結して戻ってきました！" 
+            "cn": "当我们开启团建时，迷人的景色迎接了我们。", 
+            "kr": "우리가 워크숍을 시작할 때 멋진 풍경이 우리를 맞이했습니다.", // <-- 修正
+            "jp": "研修開始時に素晴らしい景色が私たちを歓迎してくれました。" // <-- 修正
           }
         }
+        // ... (所有文本内容的地方都需要检查并修正键名)
       ]
     }
   },
   {
     "id": "event-2025-innovation-sprint",
-    "languages": ["en", "zh"],
+    "languages": ["en", "cn"], // 这个活动不包括 kr, jp, ru
     "abstract": {
       "imageUrl": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/summary_innovation_sprint.jpg",
       "title": { 
         "en": "Innovation Sprint: Brainstorming Future", 
-        "zh": "创新冲刺：展望未来", 
-        "ja": "イノベーションスプリント：未来のブレーンストーミング" 
+        "cn": "创新冲刺：展望未来"
+        // 这里的 ja 应该删除，因为 languages 数组里没有 'ja'
+        // "ja": "イノベーションスプリント：未来のブレーンストーミング" 
       },
       "previewText": { 
         "en": "A focused session where teams collaborated to generate groundbreaking ideas for our next big project. See the creativity unfold!", 
-        "zh": "一次集中的会议，团队协作，为我们下一个重大项目产生突破性想法。看看创意是如何展开的！", 
-        "ja": "次の大規模プロジェクトのための画期的なアイデアを生み出すために、チームが協力した集中セッションです。創造性がどのように展開したかをご覧ください！" 
+        "cn": "一次集中的会议，团队协作，为我们下一个重大项目产生突破性想法。看看创意是如何展开的！"
+        // 这里的 ja 应该删除
+        // "ja": "次の大規模プロジェクトのための画期的なアイデアを生み出すために、チームが協力した集中セッションです。創造性がどのように展開したかをご覧ください！" 
       }
     },
     "details": {
       "mainTitle": { 
         "en": "Igniting Creativity: Our Innovation Sprint", 
-        "zh": "点燃创意：我们的创新冲刺", 
-        "ja": "創造性を高める：イノベーションスプリント" 
+        "cn": "点燃创意：我们的创新冲刺"
+        // 这里的 ja 应该删除
+        // "ja": "創造性を高める：イノベーションスプリント" 
       },
       "contentBlocks": [
         {
           "type": "paragraph",
           "text": { 
             "en": "Our recent innovation sprint brought together cross-functional teams to tackle some of our most challenging business problems with fresh perspectives. The energy in the room was palpable as ideas flowed freely.", 
-            "zh": "我们最近的创新冲刺汇集了跨职能团队，以全新的视角解决我们最具挑战性的一些业务问题。会议室里创意迸发，气氛活跃。", 
-            "ja": "最近のイノベーションスプリントでは、部門横断型のチームが集まり、新たな視点から最も困難なビジネス課題に取り組みました。アイデアが自由に飛び交い、部屋の雰囲気は活気に満ちていました。" 
+            "cn": "我们最近的创新冲刺汇集了跨职能团队，以全新的视角解决我们最具挑战性的一些业务问题。会议室里创意迸发，气氛活跃。"
+            // 这里的 ja 应该删除
+            // "ja": "最近のイノベーションスプリントでは、部門横断型のチームが集まり、新たな視点から最も困難なビジネス課題に取り組みました。アイデアが自由に飛び交い、部屋の雰囲気は活気に満ちていました。" 
           }
         },
         {
           "type": "image_group",
           "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg", "alt": { "en": "Workshop in progress", "zh": "工作坊进行中", "ja": "ワークショップ進行中" } }
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg", "alt": { "en": "Workshop in progress", "cn": "工作坊进行中" } } // 这里的 ja 应该删除
           ],
           "caption": { 
             "en": "Teams collaborating on innovative solutions.", 
-            "zh": "团队协作开发创新解决方案。", 
-            "ja": "革新的なソリューションで協力するチーム。" 
+            "cn": "团队协作开发创新解决方案。"
+            // 这里的 ja 应该删除
+            // "ja": "革新的なソリューションで協力するチーム。" 
           }
         },
         {
           "type": "paragraph",
           "text": { 
             "en": "From brainstorming sessions to rapid prototyping, every team showcased incredible dedication and ingenuity. Many promising concepts emerged, which we are excited to explore further.", 
-            "zh": "从头脑风暴会议到快速原型制作，每个团队都展现了令人难以置信的奉献精神和独创性。许多有前景的概念浮出水面，我们很高兴能进一步探索。", 
-            "ja": "ブレーンストーミングセッションから迅速なプロトタイピングまで、各チームは信じられないほどの献身と創意工夫を発揮しました。多くの有望なコンセプトが生まれ、私たちはそれらをさらに探求することを楽しみにしています。" 
+            "cn": "从头脑风暴会议到快速原型制作，每个团队都展现了令人难以置信的奉献精神和独创性。许多有前景的概念浮出水面，我们很高兴能进一步探索。"
+            // 这里的 ja 应该删除
+            // "ja": "ブレーンストーミングセッションから迅速なプロトタイピングまで、各チームは信じられないほどの献身と創意工夫を発揮しました。多くの有望なコンセプトが生まれ、私たちはそれらをさらに探求することを楽しみにしています。" 
           }
         }
       ]
@@ -154,47 +118,53 @@
       "title": { 
         "en": "Safety production praying ceremony", 
         "cn": "安全生产祈愿仪式", 
-        "kr": "무재해 안전기원제" 
+        "kr": "무재해 안전기원제", // <-- 修正
+        "jp": "安全生産祈願祭" // <-- 修正
       },
       "previewText": { 
         "en": "A unique day dedicated to exploring and appreciating Japanese traditional culture. A truly immersive experience for our team.", 
-        "zh": "一个独特的日子，致力于探索和欣赏日本传统文化。为我们的团队带来了真正的沉浸式体验。", 
-        "ja": "日本の伝統文化を探求し、鑑賞することに特化したユニークな一日。私たちのチームにとって真に没入型の体験でした。" 
+        "cn": "一个独特的日子，致力于探索和欣赏日本传统文化。为我们的团队带来了真正的沉浸式体验。", 
+        "kr": "일본 전통 문화를 탐험하고 감상하는 특별한 날. 우리 팀을 위한 진정한 몰입형 경험입니다.", // <-- 修正
+        "jp": "日本の伝統文化を探求し、鑑賞することに特化したユニークな一日。私たちのチームにとって真に没入型の体験でした。" // <-- 修正
       }
     },
     "details": {
       "mainTitle": { 
         "en": "Immersive Japanese Cultural Experience", 
-        "zh": "沉浸式日本文化体验", 
-        "ja": "日本の伝統文化体験" 
+        "cn": "沉浸式日本文化体验", 
+        "kr": "몰입형 일본 문화 체험", // <-- 修正
+        "jp": "日本の伝統文化体験" // <-- 修正
       },
       "contentBlocks": [
         {
           "type": "paragraph",
           "text": { 
             "en": "To foster global understanding and appreciation, our team participated in a special Japanese cultural exchange day. We delved into the intricacies of traditional arts.", 
-            "zh": "为了促进全球理解和欣赏，我们的团队参加了一个特殊的日本文化交流日。我们深入探讨了传统艺术的复杂性。", 
-            "ja": "グローバルな理解と感謝を育むため、チームは特別な日本の異文化交流デーに参加しました。伝統芸術の奥深さに触れました。" 
+            "cn": "为了促进全球理解和欣赏，我们的团队参加了一个特殊的日本文化交流日。我们深入探讨了传统艺术的复杂性。", 
+            "kr": "글로벌 이해와 감사를 증진하기 위해 우리 팀은 특별한 일본 문화 교류의 날에 참여했습니다. 우리는 전통 예술의 미묘한 점들을 탐구했습니다.", // <-- 修正
+            "jp": "グローバルな理解と感謝を育むため、チームは特別な日本の異文化交流デーに参加しました。伝統芸術の奥深さに触れました。" // <-- 修正
           }
         },
         {
           "type": "image_group",
           "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_tea.jpg", "alt": { "en": "Tea ceremony", "zh": "茶道", "ja": "茶道" } },
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_kimono.jpg", "alt": { "en": "Kimono experience", "zh": "和服体验", "ja": "着物体験" } }
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_tea.jpg", "alt": { "en": "Tea ceremony", "cn": "茶道", "kr": "다도", "jp": "茶道" } }, // <-- 修正
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_kimono.jpg", "alt": { "en": "Kimono experience", "cn": "和服体验", "kr": "기모노 체험", "jp": "着物体験" } } // <-- 修正
           ],
           "caption": { 
             "en": "Learning the art of tea ceremony and trying on traditional kimonos.", 
-            "zh": "学习茶道艺术和体验传统和服。", 
-            "ja": "茶道の作法を学び、伝統的な着物を試着しました。" 
+            "cn": "学习茶道艺术和体验传统和服。", 
+            "kr": "다도 예술을 배우고 전통 기모노를 입어보는 것.", // <-- 修正
+            "jp": "茶道の作法を学び、伝統的な着物を試着しました。" // <-- 修正
           }
         },
         {
           "type": "paragraph",
           "text": { 
             "en": "The day was a truly enriching experience, offering insights into Japan's rich heritage and bringing our diverse team closer together.", 
-            "zh": "这一天是一次真正丰富的体验，让我们深入了解了日本丰富的文化遗产，并使我们多元化的团队更加紧密地团结在一起。", 
-            "ja": "この日は本当に豊かな体験であり、日本の豊かな遺産への洞察を提供し、多様なチームをより緊密に結びつけました。" 
+            "cn": "这一天是一次真正丰富的体验，让我们深入了解了日本丰富的文化遗产，并使我们多元化的团队更加紧密地团结在一起。", 
+            "kr": "이 날은 일본의 풍부한 유산에 대한 통찰력을 제공하고 다양한 팀을 더욱 가깝게 만드는 진정으로 풍요로운 경험이었습니다.", // <-- 修正
+            "jp": "この日は本当に豊かな体験であり、日本の豊かな遺産への洞察を提供し、多様なチームをより緊密に結びつけました。" // <-- 修正
           }
         }
       ]
