@@ -3,11 +3,12 @@
   for = "/photos.json"
   [headers.values]
     # 列出允许的来源
-    Access-Control-Allow-Origin = [
-      "http://127.0.0.1:5500",                   # 本地 VS Code Live Server 访问
-      "https://tuhaqiefus.github.io/.github.xhx.io" # GitHub Pages 网站访问
-    ]
-    
+    Access-Control-Allow-Origin = ["http://127.0.0.1:5500"]
+    # 本地 VS Code Live Server 访问"http://127.0.0.1:5500"
+    # GitHub Pages 网站访问"https://tuhaqiefus.github.io/.github.xhx.io" 
+    # xhxcg
     Access-Control-Allow-Methods = "GET, OPTIONS"
     Access-Control-Allow-Headers = "Content-Type"
     Cache-Control = "public, max-age=3600" # 设置缓存
+
+
