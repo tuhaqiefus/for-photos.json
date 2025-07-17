@@ -3,7 +3,7 @@
     "id": "event-2025-summer-retreat",
     "languages": ["en", "cn", "kr", "jp", "ru"], // 编组html时候注意统一化名
     "abstract": {
-      "imageUrl": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/summary_summer_retreat.jpg",
+      "imageUrl": "https://imgur.com/w6JzsSt",
       "title": { 
         "en": "Summer Retreat: Fun & Connection", 
         "cn": "夏日团建：乐趣与连结", 
@@ -37,8 +37,8 @@
         {
           "type": "image_group",
           "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_arrival.jpg", "alt": { "en": "Team arriving at resort", "cn": "团队抵达度假村", "kr": "리조트에 도착한 팀", "jp": "リゾートに到着したチーム" } }, 
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_retreat_lakeview.jpg", "alt": { "en": "Beautiful lake view", "cn": "美丽的湖景", "kr": "아름다운 호수 전망", "jp": "美しい湖の眺め" } }
+            { "url": "https://imgur.com/VBbvPmg", "alt": { "en": "Team arriving at resort", "cn": "团队抵达度假村", "kr": "리조트에 도착한 팀", "jp": "リゾートに到着したチーム" } }, 
+            { "url": "https://imgur.com/w6JzsSt", "alt": { "en": "Beautiful lake view", "cn": "美丽的湖景", "kr": "아름다운 호수 전망", "jp": "美しい湖の眺め" } }
           ],
           "caption": { 
             "en": "The stunning views welcomed us as we kicked off our retreat.", 
