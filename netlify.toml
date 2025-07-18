@@ -3,7 +3,7 @@
   for = "/photos.json"
   [headers.values]
     # 列出允许的来源
-    Access-Control-Allow-Origin = ["https://tuhaqiefus.github.io/.github.xhx.io"]
+    Access-Control-Allow-Origin = ["https://tuhaqiefus.github.io"]
     # 本地 VS Code Live Server 访问"http://127.0.0.1:5500"
     # GitHub Pages 网站访问"https://tuhaqiefus.github.io/.github.xhx.io" 
     # xhxcg
