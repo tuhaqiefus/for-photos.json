@@ -1,283 +1,254 @@
 [
-
     {
-    "id": "event20250527",
-    "languages": [ "cn"], 
-    "abstract": {
-      "imageUrl": "https://i.ibb.co/M5J17TV8/20250527001.png",
-      "title": { 
-        "cn": "生产、研发、办公综合体乔迁庆典"
-      },
-      "previewText": { 
-        "en": "May 27th, 2025", 
-        "cn": "2025年5月27日", 
-        "kr": "2025년 5월 27일"
-      }
-    },
-    "details": {
-      "mainTitle": { 
-
-        "cn": "生产、研发、办公综合体乔迁庆典"
-
-      },
-      "contentBlocks": [
-        {
-          "type": "paragraph",
-          "text": { 
-
-            "cn": "2025年5月27日上午巳时，鑫华夏集团上海生产、研发、办公综合体乔迁典礼正式开始。副会长、顾问俞东旭发表讲话。"
-
-          }
+        "id": "event20250527",
+        "languages": ["cn"],
+        "abstract": {
+            "imageUrl": "https://i.ibb.co/M5J17TV8/20250527001.png",
+            "title": {
+                "cn": "生产、研发、办公综合体乔迁庆典"
+            },
+            "previewText": {
+                "en": "May 27th, 2025",
+                "cn": "2025年5月27日",
+                "kr": "2025년 5월 27일"
+            }
         },
-        {
-          "type": "image_group",
-          "images": [
-            { "url": "https://i.ibb.co/hFndxTcJ/20250527002.jpg" }
-          ]
-
-          
-        },
-        {
-          "type": "paragraph",
-          "text": { 
-            "cn": "董事长金太周先生带领大家分蛋糕。"
-
-          }
-        },
-
-{
-          "type": "image_group",
-          "images": [
-            { "url": "https://i.ibb.co/yFp2VVh4/20250527003.jpg" }
-          ]
-
-        },
+        "details": {
+            "mainTitle": {
+                "cn": "生产、研发、办公综合体乔迁庆典"
+            },
+            "contentBlocks": [
                 {
-          "type": "paragraph",
-          "text": { 
-            "cn": "在花团锦簇中，董事长金太周先生偕财务总监方明女士揭幕。"
-
-          }
-        },
-        {
-          "type": "image_group",
-          "images": [
-            { "url": "https://i.ibb.co/x8rLpKzD/20250527004.jpg" }
-          ]
-
+                    "type": "paragraph",
+                    "text": {
+                        "cn": "2025年5月27日上午巳时，鑫华夏集团上海生产、研发、办公综合体乔迁典礼正式开始。副会长、顾问俞东旭发表讲话。"
+                    }
+                },
+                {
+                    "type": "image_group",
+                    "images": [
+                        {
+                            "url": "https://i.ibb.co/hFndxTcJ/20250527002.jpg",
+                            "alt": { "cn": "副会长俞东旭发表讲话", "en": "Vice Chairman Yu Dongxu speaking" }
+                        }
+                    ],
+                    "caption": { "cn": "乔迁庆典现场，副会长俞东旭致辞", "en": "Vice Chairman Yu Dongxu addressing the ceremony" }
+                },
+                {
+                    "type": "paragraph",
+                    "text": {
+                        "cn": "董事长金太周先生带领大家分蛋糕。"
+                    }
+                },
+                {
+                    "type": "image_group",
+                    "images": [
+                        {
+                            "url": "https://i.ibb.co/yFp2VVh4/20250527003.jpg",
+                            "alt": { "cn": "董事长金太周带领分蛋糕", "en": "Chairman Kim Tae-joo leading cake cutting" }
+                        }
+                    ],
+                    "caption": { "cn": "董事长金太周先生与大家分享乔迁喜悦", "en": "Chairman Kim Tae-joo sharing the joy of relocation" }
+                },
+                {
+                    "type": "paragraph",
+                    "text": {
+                        "cn": "在花团锦簇中，董事长金太周先生偕财务总监方明女士揭幕。"
+                    }
+                },
+                {
+                    "type": "image_group",
+                    "images": [
+                        {
+                            "url": "https://i.ibb.co/x8rLpKzD/20250527004.jpg",
+                            "alt": { "cn": "董事长金太周与财务总监揭幕", "en": "Chairman Kim Tae-joo and Finance Director Fang Ming unveiling" }
+                        }
+                    ],
+                    "caption": { "cn": "揭幕仪式隆重举行", "en": "Grand unveiling ceremony" }
+                }
+            ]
         }
-      ]
-    }
-  },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  {
-    "id": "event-2025-summer-retreat",
-    "languages": ["en", "cn", "kr", "ru", "jp"], 
-
-    "abstract": {
-      "imageUrl": "https://i.ibb.co/M5J17TV8/20250527001.png",
-
-      "title": { 
-        "en": "Summer Retreat: Fun & Connection", 
-        "cn": "123夏日团建：乐趣与连结", 
-        "kr": "여름 워크숍: 즐거움과 연결", 
-        "jp": "夏の研修：楽しみと絆" 
-      },
-      "previewText": { 
-        "en": "Our team had an amazing summer retreat, filled with laughter, teamwork, and unforgettable moments. Discover how we bonded!", 
-        "cn": "123我们的团队度过了一个美妙的夏日团建，充满欢声笑语、团队合作和难忘的时刻。一起来看看我们是如何建立联系的吧！", 
-        "kr": "우리 팀은 웃음과 팀워크, 잊지 못할 순간들로 가득한 멋진 여름 워크숍을 보냈습니다. 우리가 어떻게 유대감을 형성했는지 알아보세요！", 
-        "jp": "チームは笑いとチームワーク、忘れられない瞬間で満たされた素晴らしい夏の研修を過ごしました。私たちがどのように絆を深めたかをご覧ください！" 
-      }
     },
-    "details": {
-      "mainTitle": { 
-        "en": "Unforgettable Summer Getaway", 
-        "cn": "难忘的夏日之旅", 
-        "kr": "잊을 수 없는 여름 휴가", 
-        "jp": "忘れられない夏の思い出" 
-      },
-      "contentBlocks": [
-        {
-          "type": "paragraph",
-          "text": { 
-            "en": "Our annual summer retreat took us to a beautiful lakeside resort. The goal was to relax, recharge, and strengthen our team bonds outside the office environment.", 
-            "cn": "123我们的年度夏日团建活动将我们带到了一个美丽的湖畔度假村。目标是在办公室环境之外放松、充电并加强团队凝聚力。", 
-            "kr": "매년 여름 워크숍은 아름다운 호수 리조트로 우리를 데려갔습니다. 목표는 사무실 환경 밖에서 휴식을 취하고 재충전하며 팀 유대감을 강화하는 것이었습니다.", 
-            "jp": "毎年恒例の夏の研修では、美しい湖畔のリゾートへ行きました。オフィス環境を離れてリラックスし、活力をチャージし、チームの絆を深めることが目的でした。" 
-          }
+    {
+        "id": "event-2025-summer-retreat",
+        "languages": ["en", "cn", "kr", "ru", "jp"],
+        "abstract": {
+            "imageUrl": "https://i.ibb.co/M5J17TV8/20250527001.png",
+            "title": {
+                "en": "Summer Retreat: Fun & Connection",
+                "cn": "123夏日团建：乐趣与连结",
+                "kr": "여름 워크숍: 즐거움과 연결",
+                "jp": "夏の研修：楽しみと絆"
+            },
+            "previewText": {
+                "en": "Our team had an amazing summer retreat, filled with laughter, teamwork, and unforgettable moments. Discover how we bonded!",
+                "cn": "123我们的团队度过了一个美妙的夏日团建，充满欢声笑语、团队合作和难忘的时刻。一起来看看我们是如何建立联系的吧！",
+                "kr": "우리 팀은 웃음과 팀워크, 잊지 못할 순간들로 가득한 멋진 여름 워크숍을 보냈습니다. 우리가 어떻게 유대감을 형성했는지 알아보세요！",
+                "jp": "チームは笑いとチームワーク、忘れられない瞬間で満たされた素晴らしい夏の研修を過ごしました。私たちがどのように絆を深めたかをご覧ください！"
+            }
         },
-        {
-          "type": "image_group",
-          "images": [
-            { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": "Team arriving at resort", "cn": "团队抵达度假村", "kr": "리조트에 도착한 팀", "jp": "リゾートに到着したチーム" } }, 
-            { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": "Beautiful lake view", "cn": "美丽的湖景", "kr": "아름다운 호수 전망", "jp": "美しい湖の眺め" } }
-          ],
-          "caption": { 
-            "en": "The stunning views welcomed us as we kicked off our retreat.", 
-            "cn": "当我们开启团建时，迷人的景色迎接了我们。", 
-            "kr": "우리가 워크숍을 시작할 때 멋진 풍경이 우리를 맞이했습니다.", 
-            "jp": "研修開始時に素晴らしい景色が私たちを歓迎してくれました。" 
-          }
+        "details": {
+            "mainTitle": {
+                "en": "Unforgettable Summer Getaway",
+                "cn": "难忘的夏日之旅",
+                "kr": "잊을 수 없는 여름 휴가",
+                "jp": "忘れられない夏の思い出"
+            },
+            "contentBlocks": [
+                {
+                    "type": "paragraph",
+                    "text": {
+                        "en": "Our annual summer retreat took us to a beautiful lakeside resort. The goal was to relax, recharge, and strengthen our team bonds outside the office environment.",
+                        "cn": "123我们的年度夏日团建活动将我们带到了一个美丽的湖畔度假村。目标是在办公室环境之外放松、充电并加强团队凝聚力。",
+                        "kr": "매년 여름 워크숍은 아름다운 호수 리조트로 우리를 데려갔습니다. 목표는 사무실 환경 밖에서 휴식을 취하고 재충전하며 팀 유대감을 강화하는 것이었습니다。",
+                        "jp": "毎年恒例の夏の研修では、美しい湖畔のリゾートへ行きました。オフィス環境を離れてリラックスし、活力をチャージし、チームの絆を深めることが目的でした。"
+                    }
+                },
+                {
+                    "type": "image_group",
+                    "images": [
+                        { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": "Team arriving at resort", "cn": "团队抵达度假村", "kr": "리조트에 도착한 팀", "jp": "リゾートに到着한 팀" } },
+                        { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": "Beautiful lake view", "cn": "美丽的湖景", "kr": "아름다운 호수 전망", "jp": "美しい湖の眺め" } }
+                    ],
+                    "caption": {
+                        "en": "The stunning views welcomed us as we kicked off our retreat.",
+                        "cn": "当我们开启团建时，迷人的景色迎接了我们。",
+                        "kr": "우리가 워크숍을 시작할 때 멋진 풍경이 우리를 맞이했습니다。",
+                        "jp": "研修開始時に素晴らしい景色が私たちを歓迎してくれました。"
+                    }
+                }
+            ]
         }
-
-      ]
-    }
-  },
-
-
-
-  
-  {
-    "id": "event20230616",
-    "languages": ["en", "kr", "cn"], 
-    "abstract": {
-      "imageUrl": "https://i.ibb.co/4wcNcRhb/20230616004.png",
-      "title": { 
-        "en": "Shanghai Branch Relocation Celebration", 
-        "cn": "上海分公司乔迁庆典",
-        "kr": "상하이 지사 이전 기념 축제"
-      },
-      "previewText": { 
-        "en": "June 16th, 2023", 
-        "cn": "2023年6月16日", 
-        "kr": "2023년 06월 16일"
-      }
     },
-    "details": {
-      "mainTitle": { 
-        "en": "Shanghai Branch Relocation Celebration", 
-        "cn": "上海分公司乔迁庆典",
-        "kr": "상하이 지사 이전 기념 축제 "
-      },
-      "contentBlocks": [
-        {
-          "type": "paragraph",
-          "text": { 
-            "en": "Our recent innovation sprint brought together cross-functional teams to tackle some of our most challenging business problems with fresh perspectives. The energy in the room was palpable as ideas flowed freely.", 
-            "kr": "2023년 6월 16일, 회사는 새로운 발전 단계에 올라섰습니다. 상하이 쑹장구 연동 유구_PARK에 새로운 사무실을 매입하고 22동 2층의 넓고 밝은 사무실로 이전하였습니다. ", 
-            "cn": "123我们最近的创新冲刺汇集了跨职能团队，以全新的视角解决我们最具挑战性的一些业务问题。会议室里创意迸发，气氛活跃。"
-
-          }
+    {
+        "id": "event20230616",
+        "languages": ["en", "kr", "cn"],
+        "abstract": {
+            "imageUrl": "https://i.ibb.co/4wcNcRhb/20230616004.png",
+            "title": {
+                "en": "Shanghai Branch Relocation Celebration",
+                "cn": "上海分公司乔迁庆典",
+                "kr": "상하이 지사 이전 기념 축제"
+            },
+            "previewText": {
+                "en": "June 16th, 2023",
+                "cn": "2023年6月16日",
+                "kr": "2023년 06월 16일"
+            }
         },
-        {
-          "type": "image_group",
-          "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg" }
-          ],
-          "caption": { 
-            "en": "ceremony", 
-            "kr": "의식", 
-            "cn": "典礼"
-
-          }
-        },
-        {
-          "type": "paragraph",
-          "text": { 
-            "en": "모든 직원들은 열정으로 가득 차 있으며 회사의 순조로운 이전과 사업의 성공을 진심으로 기원합니다! 회사 이전 기념의 순간, 우리는 장기간 우리를 지원하고 인정해 준 전국의 협력 파트너들에게 특별히 감사드립니다. 우리는 함께 손잡고 더 아름다운 미래를 만들어 나가길 바랍니다.", 
-            "kr": "모든 직원들은 열정으로 가득 차 있으며 회사의 순조로운 이전과 사업의 성공을 진심으로 기원합니다! 회사 이전 기념의 순간, 우리는 장기간 우리를 지원하고 인정해 준 전국의 협력 파트너들에게 특별히 감사드립니다. 우리는 함께 손잡고 더 아름다운 미래를 만들어 나가길 바랍니다.", 
-            "cn": "从头脑风暴会议到快速原型制作，每个团队都展现了令人难以置信的奉献精神和独创性。许多有前景的概念浮出水面，我们很高兴能进一步探索。"
-
-          }
-        },
-
-{
-          "type": "image_group",
-          "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg" }
-          ],
-          "caption": { 
-            "en": "group photo", 
-            "kr": "함께 찍다", 
-            "cn": "合照"
-
-          }
+        "details": {
+            "mainTitle": {
+                "en": "Shanghai Branch Relocation Celebration",
+                "cn": "上海分公司乔迁庆典",
+                "kr": "상하이 지사 이전 기념 축제 "
+            },
+            "contentBlocks": [
+                {
+                    "type": "paragraph",
+                    "text": {
+                        "en": "Our recent innovation sprint brought together cross-functional teams to tackle some of our most challenging business problems with fresh perspectives. The energy in the room was palpable as ideas flowed freely.",
+                        "kr": "2023年6月16日，회사는 새로운 발전 단계에 올라섰습니다。 상하이 쑹장구 연동 유구_PARK에 새로운 사무실을 매입하고 22동 2층의 넓고 밝은 사무실로 이전하였습니다。 ",
+                        "cn": "123我们最近的创新冲刺汇集了跨职能团队，以全新的视角解决我们最具挑战性的一些业务问题。会议室里创意迸发，气氛活跃。"
+                    }
+                },
+                {
+                    "type": "image_group",
+                    "images": [
+                        {
+                            "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg",
+                            "alt": { "en": "Workshop in progress", "cn": "工作坊进行中", "kr": "워크숍 진행 중" }
+                        }
+                    ],
+                    "caption": {
+                        "en": "ceremony",
+                        "kr": "의식",
+                        "cn": "典礼"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": {
+                        "en": "모든 직원들은 열정으로 가득 차 있으며 회사의 순조로운 이전과 사업의 성공을 진심으로 기원합니다! 회사 이전 기념의 순간, 우리는 장기간 우리를 지원하고 인정해 준 전국의 협력 파트너들에게 특별히 감사드립니다. 우리는 함께 손잡고 더 아름다운 미래를 만들어 나가길 바랍니다。",
+                        "kr": "모든 직원들은 열정으로 가득 차 있으며 회사의 순조로운 이전과 사업의 성공을 진심으로 기원합니다! 회사 이전 기념의 순간, 우리는 장기간 우리를 지원하고 인정해 준 전국의 협력 파트너들에게 특별히 감사드립니다. 우리는 함께 손잡고 더 아름다운 미래를 만들어 나가길 바랍니다。",
+                        "cn": "从头脑风暴会议到快速原型制作，每个团队都展现了令人难以置信的奉献精神和独创性。许多有前景的概念浮出水面，我们很高兴能进一步探索。"
+                    }
+                },
+                {
+                    "type": "image_group",
+                    "images": [
+                        {
+                            "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg",
+                            "alt": { "en": "group photo", "cn": "合照", "kr": "단체 사진" }
+                        }
+                    ],
+                    "caption": {
+                        "en": "group photo",
+                        "kr": "함께 찍다",
+                        "cn": "合照"
+                    }
+                }
+            ]
         }
-        
-      ]
-    }
-  },
-
-
-
-
-  
-
-  
-  {
-    "id": "event_1",
-    "languages": ["en", "cn", "kr", "jp", "ru"],
-    "abstract": {
-      "imageUrl": "https://imgur.com/VBbvPmg",
-      "title": { 
-        "en": "Safety production praying ceremony", 
-        "cn": "安全生产祈愿仪式", 
-        "kr": "무재해 안전기원제", 
-        "jp": "安全生産祈願祭" 
-      },
-      "previewText": { 
-        "en": "A unique day dedicated to exploring and appreciating Japanese traditional culture. A truly immersive experience for our team.", 
-        "cn": "一个独特的日子，致力于探索和欣赏日本传统文化。为我们的团队带来了真正的沉浸式体验。", 
-        "kr": "일본 전통 문화를 탐험하고 감상하는 특별한 날. 우리 팀을 위한 진정한 몰입형 경험입니다.", 
-        "jp": "日本の伝統文化を探求し、鑑賞することに特化したユニークな一日。私たちのチームにとって真に没入型の体験でした。" 
-      }
     },
-    "details": {
-      "mainTitle": { 
-        "en": "Immersive Japanese Cultural Experience", 
-        "cn": "沉浸式日本文化体验", 
-        "kr": "몰입형 일본 문화 체험", 
-        "jp": "日本の伝統文化体験" 
-      },
-      "contentBlocks": [
-        {
-          "type": "paragraph",
-          "text": { 
-            "en": "To foster global understanding and appreciation, our team participated in a special Japanese cultural exchange day. We delved into the intricacies of traditional arts.", 
-            "cn": "为了促进全球理解和欣赏，我们的团队参加了一个特殊的日本文化交流日。我们深入探讨了传统艺术的复杂性。", 
-            "kr": "글로벌 이해와 감사를 증진하기 위해 우리 팀은 특별한 일본 문화 교류의 날에 참여했습니다. 우리는 전통 예술의 미묘한 점들을 탐구했습니다.", 
-            "jp": "グローバルな理解と感謝を育むため、チームは特別な日本の異文化交流デーに参加しました。伝統芸術の奥深さに触れました。"
-          }
+    {
+        "id": "event_1",
+        "languages": ["en", "cn", "kr", "jp", "ru"],
+        "abstract": {
+            "imageUrl": "https://i.ibb.co/M5J17TV8/20250527001.png", // 替换了imgur链接
+            "title": {
+                "en": "Safety production praying ceremony",
+                "cn": "安全生产祈愿仪式",
+                "kr": "무재해 안전기원제",
+                "jp": "安全生産祈願祭"
+            },
+            "previewText": {
+                "en": "A unique day dedicated to exploring and appreciating Japanese traditional culture. A truly immersive experience for our team.",
+                "cn": "一个独特的日子，致力于探索和欣赏日本传统文化。为我们的团队带来了真正的沉浸式体验。",
+                "kr": "일본 전통 문화를 탐험하고 감상하는 특별한 날. 우리 팀을 위한 진정한 몰입형 경험입니다。",
+                "jp": "日本の伝統文化を探求し、鑑賞することに特化したユニークな一日。私たちのチームにとって真に没入型の体験でした。"
+            }
         },
-        {
-          "type": "image_group",
-          "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_tea.jpg", "alt": { "en": "Tea ceremony", "cn": "茶道", "kr": "다도", "jp": "茶道" } }, 
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_kimono.jpg", "alt": { "en": "Kimono experience", "cn": "和服体验", "kr": "기모노 체험", "jp": "着物体験" } }
-          ],
-          "caption": { 
-            "en": "Learning the art of tea ceremony and trying on traditional kimonos.", 
-            "cn": "学习茶道艺术和体验传统和服。", 
-            "kr": "다도 예술을 배우고 전통 기모노를 입어보는 것.", 
-            "jp": "茶道の作法を学び、伝統的な着物を試着しました。"
-          }
-        },
-        {
-          "type": "paragraph",
-          "text": { 
-            "en": "The day was a truly enriching experience, offering insights into Japan's rich heritage and bringing our diverse team closer together.", 
-            "cn": "这一天是一次真正丰富的体验，让我们深入了解了日本丰富的文化遗产，并使我们多元化的团队更加紧密地团结在一起。", 
-            "kr": "이 날은 일본의 풍부한 유산에 대한 통찰력을 제공하고 다양한 팀을 더욱 가깝게 만드는 진정으로 풍요로운 경험이었습니다.", 
-            "jp": "この日は本当に豊かな体験であり、日本の豊かな遺産への洞察を提供し、多様なチームをより緊密に結びつけました。" 
-          }
+        "details": {
+            "mainTitle": {
+                "en": "Immersive Japanese Cultural Experience",
+                "cn": "沉浸式日本文化体验",
+                "kr": "몰입형 일본 문화 체험",
+                "jp": "日本の伝統文化体験"
+            },
+            "contentBlocks": [
+                {
+                    "type": "paragraph",
+                    "text": {
+                        "en": "To foster global understanding and appreciation, our team participated in a special Japanese cultural exchange day. We delved into the intricacies of traditional arts.",
+                        "cn": "为了促进全球理解和欣赏，我们的团队参加了一个特殊的日本文化交流日。我们深入探讨了传统艺术的复杂性。",
+                        "kr": "글로벌 이해와 감사를 증진하기 위해 우리 팀은 특별한 일본 문화 교류의 날에 참여했습니다. 우리는 전통 예술의 미묘한 점들을 탐구했습니다。",
+                        "jp": "グローバルな理解と感謝を育むため、チームは特別な日本の異文化交流デーに参加しました。伝統芸術の奥深さに触れました。"
+                    }
+                },
+                {
+                    "type": "image_group",
+                    "images": [
+                        { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_tea.jpg", "alt": { "en": "Tea ceremony", "cn": "茶道", "kr": "다도", "jp": "茶道" } },
+                        { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_kimono.jpg", "alt": { "en": "Kimono experience", "cn": "和服体验", "kr": "기모노 체험", "jp": "着物体験" } }
+                    ],
+                    "caption": {
+                        "en": "Learning the art of tea ceremony and trying on traditional kimonos.",
+                        "cn": "学习茶道艺术和体验传统和服。",
+                        "kr": "다도 예술을 배우고 전통 기모노를 입어보는 것。",
+                        "jp": "茶道の作法を学び、伝統的な着物を試着しました。"
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": {
+                        "en": "The day was a truly enriching experience, offering insights into Japan's rich heritage and bringing our diverse team closer together.",
+                        "cn": "这一天是一次真正丰富的体验，让我们深入了解了日本丰富的文化遗产，并使我们多元化的团队更加紧密地团结在一起。",
+                        "kr": "이 날은 일본의 풍부한 유산에 대한 통찰력을 제공하고 다양한 팀을 더욱 가깝게 만드는 진정으로 풍요로운 경험이었습니다。",
+                        "jp": "この日は本当に豊かな体験であり、日本の豊かな遗産への洞察を提供し、多様な 팀을 더욱 가깝게 만드는 진정으로 풍요로운 경험이었습니다。"
+                    }
+                }
+            ]
         }
-      ]
     }
-  }
 ]
+
