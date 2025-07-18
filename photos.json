@@ -1,4 +1,90 @@
 [
+
+    {
+    "id": "event20250527",
+    "languages": [ "cn"], 
+    "abstract": {
+      "imageUrl": "https://i.ibb.co/M5J17TV8/20250527001.png",
+      "title": { 
+        "cn": "生产、研发、办公综合体乔迁庆典"
+      },
+      "previewText": { 
+        "en": "May 27th, 2025", 
+        "cn": "2025年5月27日", 
+        "kr": "2025년 5월 27일"
+      }
+    },
+    "details": {
+      "mainTitle": { 
+
+        "cn": "生产、研发、办公综合体乔迁庆典"
+
+      },
+      "contentBlocks": [
+        {
+          "type": "paragraph",
+          "text": { 
+
+            "cn": "2025年5月27日上午巳时，鑫华夏集团上海生产、研发、办公综合体乔迁典礼正式开始。副会长、顾问俞东旭发表讲话。"
+
+          }
+        },
+        {
+          "type": "image_group",
+          "images": [
+            { "url": "https://i.ibb.co/hFndxTcJ/20250527002.jpg" }
+          ]
+
+          
+        },
+        {
+          "type": "paragraph",
+          "text": { 
+            "cn": "董事长金太周先生带领大家分蛋糕。"
+
+          }
+        },
+
+{
+          "type": "image_group",
+          "images": [
+            { "url": "https://i.ibb.co/yFp2VVh4/20250527003.jpg" }
+          ]
+
+        },
+                {
+          "type": "paragraph",
+          "text": { 
+            "cn": "在花团锦簇中，董事长金太周先生偕财务总监方明女士揭幕。"
+
+          }
+        },
+        {
+          "type": "image_group",
+          "images": [
+            { "url": "https://i.ibb.co/x8rLpKzD/20250527004.jpg" }
+          ]
+
+        }
+      ]
+    }
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   {
     "id": "event-2025-summer-retreat",
     "languages": ["en", "cn", "kr", "ru", "jp"], 
@@ -66,7 +152,6 @@
         "en": "Shanghai Branch Relocation Celebration", 
         "cn": "上海分公司乔迁庆典",
         "kr": "상하이 지사 이전 기념 축제"
-
       },
       "previewText": { 
         "en": "June 16th, 2023", 
@@ -76,16 +161,16 @@
     },
     "details": {
       "mainTitle": { 
-        "en": "Igniting Creativity: Our Innovation Sprint", 
-        "cn": "123点燃创意：我们的创新冲刺",
-        "kr": "상하이 지사 이전 기념 축제"
-
+        "en": "Shanghai Branch Relocation Celebration", 
+        "cn": "上海分公司乔迁庆典",
+        "kr": "상하이 지사 이전 기념 축제 "
       },
       "contentBlocks": [
         {
           "type": "paragraph",
           "text": { 
             "en": "Our recent innovation sprint brought together cross-functional teams to tackle some of our most challenging business problems with fresh perspectives. The energy in the room was palpable as ideas flowed freely.", 
+            "kr": "2023년 6월 16일, 회사는 새로운 발전 단계에 올라섰습니다. 상하이 쑹장구 연동 유구_PARK에 새로운 사무실을 매입하고 22동 2층의 넓고 밝은 사무실로 이전하였습니다. ", 
             "cn": "123我们最近的创新冲刺汇集了跨职能团队，以全新的视角解决我们最具挑战性的一些业务问题。会议室里创意迸发，气氛活跃。"
 
           }
@@ -93,18 +178,20 @@
         {
           "type": "image_group",
           "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg", "alt": { "en": "Workshop in progress", "cn": "工作坊进行中" } }
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg" }
           ],
           "caption": { 
-            "en": "Teams collaborating on innovative solutions.", 
-            "cn": "团队协作开发创新解决方案。"
+            "en": "ceremony", 
+            "kr": "의식", 
+            "cn": "典礼"
 
           }
         },
         {
           "type": "paragraph",
           "text": { 
-            "en": "From brainstorming sessions to rapid prototyping, every team showcased incredible dedication and ingenuity. Many promising concepts emerged, which we are excited to explore further.", 
+            "en": "모든 직원들은 열정으로 가득 차 있으며 회사의 순조로운 이전과 사업의 성공을 진심으로 기원합니다! 회사 이전 기념의 순간, 우리는 장기간 우리를 지원하고 인정해 준 전국의 협력 파트너들에게 특별히 감사드립니다. 우리는 함께 손잡고 더 아름다운 미래를 만들어 나가길 바랍니다.", 
+            "kr": "모든 직원들은 열정으로 가득 차 있으며 회사의 순조로운 이전과 사업의 성공을 진심으로 기원합니다! 회사 이전 기념의 순간, 우리는 장기간 우리를 지원하고 인정해 준 전국의 협력 파트너들에게 특별히 감사드립니다. 우리는 함께 손잡고 더 아름다운 미래를 만들어 나가길 바랍니다.", 
             "cn": "从头脑风暴会议到快速原型制作，每个团队都展现了令人难以置信的奉献精神和独创性。许多有前景的概念浮出水面，我们很高兴能进一步探索。"
 
           }
@@ -113,11 +200,12 @@
 {
           "type": "image_group",
           "images": [
-            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg", "alt": { "en": "Workshop in progress", "cn": "工作坊进行中" } }
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg" }
           ],
           "caption": { 
-            "en": "Teams collaborating on innovative solutions.", 
-            "cn": "团队协作开发创新解决方案。"
+            "en": "group photo", 
+            "kr": "함께 찍다", 
+            "cn": "合照"
 
           }
         }
@@ -127,6 +215,9 @@
   },
 
 
+
+
+  
 
   
   {
