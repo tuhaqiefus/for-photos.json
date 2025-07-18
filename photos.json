@@ -228,9 +228,9 @@
         "abstract": {
             "imageUrl": "https://i.ibb.co/4wcNcRhb/20230616004.png",
             "title": {
-                "en": "Shanghai Branch Relocation Celebration",
-                "cn": "上海分公司乔迁庆典",
-                "kr": "상하이 지사 이전 기념 축제"
+                "en": "Shanghai branch moves to new location",
+                "cn": "上海分公司乔迁新址",
+                "kr": "상해 지사가 새 주소로 이사하다."
             },
             "previewText": {
                 "en": "June 16th, 2023",
@@ -240,9 +240,9 @@
         },
         "details": {
             "mainTitle": {
-                "en": "Shanghai Branch Relocation Celebration",
-                "cn": "上海分公司乔迁庆典",
-                "kr": "상하이 지사 이전 기념 축제 "
+                "en": "Shanghai branch moves to new location",
+                "cn": "上海分公司乔迁新址",
+                "kr": "상해 지사가 새 주소로 이사하다. "
             },
             "contentBlocks": [
                 {
@@ -305,42 +305,42 @@
         "abstract": {
             "imageUrl": "https://i.ibb.co/1JmJJKhs/20200627001.jpg",
             "title": {
-                "en": "Journey to Jeju Island",
-                "cn": "上海分公司开业庆典",
-                "kr": "제주도 여행"
+                "en": "Shanghai Branch Establishment Ceremony",
+                "cn": "上海分公司成立仪式",
+                "kr": "상해지사 설립식"
             },
             "previewText": {
-                "en": "September 13, 2024",
-                "cn": "2024年9月13日",
-                "kr": "2024년 9월 13일"
+                "en": "June 27, 2020",
+                "cn": "2020年6月27日",
+                "kr": "2020년 6월 27일"
             }
         },
         "details": {
             "mainTitle": {
-                "en": "Journey to Jeju Island",
-                "cn": "济州岛之旅",
-                "kr": "제주도 여행",
-                "jp": "忘れられない夏の思い出"
+                "en": "Shanghai Branch Establishment Ceremony",
+                "cn": "上海分公司成立仪式",
+                "kr": "상해지사 설립식"
             },
             "contentBlocks": [
                 {
                     "type": "paragraph",
                     "text": {
-                        "en": "Our annual summer retreat took us to a beautiful lakeside resort. The goal was to relax, recharge, and strengthen our team bonds outside the office environment.",
-                        "cn": "123我们的年度夏日团建活动将我们带到了一个美丽的湖畔度假村。目标是在办公室环境之外放松、充电并加强团队凝聚力。",
-                        "kr": "매년 여름 워크숍은 아름다운 호수 리조트로 우리를 데려갔습니다. 목표는 사무실 환경 밖에서 휴식을 취하고 재충전하며 팀 유대감을 강화하는 것이었습니다。"
+                        "en": "On June 27, 2020, the grand opening ceremony of the Shanghai branch was held. At the ceremony, in addition to important leaders such as the company's general manager, more than 30 industry and Korean Chamber of Commerce VIPs were specially invited to attend, giving high hopes and encouragement for the establishment of the branch.",
+                        "cn": "2020年6月27日，隆重进行了上海分公司开业仪式。仪式上，除了公司总经理等重要领导参加以外，还特别邀请了行业及韩商会30多位贵宾参加，为分公司的成立给予厚望与鼓励。",
+                        "kr": "2020년 6월 27일, 상해지사 개업식이 성대하게 진행되였다.이 자리에는 회사 사장 등 주요 임원진 외에도 업계 및 대한상공회의소 귀빈 30여 명이 특별 초청돼 지사 설립에 큰 기대와 격려를 보냈다."
                     }
                 },
                 {
                     "type": "image_group",
                     "images": [
-                        { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } },
-                        { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } }
+                        { "url": "https://i.ibb.co/1JmJJKhs/20200627001.jpg", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } },
+                        { "url": "https://i.ibb.co/zWTQ0KCf/20200627003.jpg", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } },
+                        { "url": "https://i.ibb.co/99xYYBW5/20200627002.jpg", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } }
                     ],
                     "caption": {
-                        "en": "The stunning views welcomed us as we kicked off our retreat.",
-                        "cn": "当我们开启团建时，迷人的景色迎接了我们。",
-                        "kr": "우리가 워크숍을 시작할 때 멋진 풍경이 우리를 맞이했습니다。"
+                        "en": "Once again, I would like to express my heartfelt gratitude to all the guests and friends!",
+                        "cn": "在此向各位来宾朋友再次表示衷心的感谢！",
+                        "kr": "내빈 여러분께 다시 한번 진심으로 감사를 드립니다."
                     }
                 }
             ]
