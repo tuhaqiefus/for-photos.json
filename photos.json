@@ -54,26 +54,27 @@
     }
   },
   {
-    "id": "event-2025-innovation-sprint",
-    "languages": ["en", "cn"], 
+    "id": "event20230616",
+    "languages": ["en", "kr", "cn"], 
     "abstract": {
       "imageUrl": "https://i.imgur.com/VBbvPmg.jpeg",
       "title": { 
-        "en": "Innovation Sprint: Brainstorming Future", 
-        "cn": "创新冲刺：展望未来"
+        "en": "Shanghai Branch Relocation Celebration", 
+        "cn": "上海分公司乔迁庆典"
+        "kr": "2023년 06월 16일"
 
       },
       "previewText": { 
-        "en": "A focused session where teams collaborated to generate groundbreaking ideas for our next big project. See the creativity unfold!", 
-        "cn": "一次集中的会议，团队协作，为我们下一个重大项目产生突破性想法。看看创意是如何展开的！"
-
+        "en": "June 16th, 2023", 
+        "cn": "2023年6月16日", 
+        "kr": "20230616"
       }
     },
     "details": {
       "mainTitle": { 
         "en": "Igniting Creativity: Our Innovation Sprint", 
         "cn": "123点燃创意：我们的创新冲刺"
-
+        "kr": "상하이 지사 이전 기념 축제"
 
       },
       "contentBlocks": [
