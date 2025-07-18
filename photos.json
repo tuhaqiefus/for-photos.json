@@ -194,7 +194,7 @@
         "id": "event_1",
         "languages": ["en", "cn", "kr", "jp", "ru"],
         "abstract": {
-            "imageUrl": "https://i.ibb.co/M5J17TV8/20250527001.png", 
+            "imageUrl": "https://i.ibb.co/yBsybZzY/20190814001.jpg", 
             "title": {
                 "en": "Safety production praying ceremony",
                 "cn": "安全生产祈愿仪式",
@@ -202,49 +202,40 @@
                 "jp": "安全生産祈願祭"
             },
             "previewText": {
-                "en": "A unique day dedicated to exploring and appreciating Japanese traditional culture. A truly immersive experience for our team.",
-                "cn": "一个独特的日子，致力于探索和欣赏日本传统文化。为我们的团队带来了真正的沉浸式体验。",
-                "kr": "일본 전통 문화를 탐험하고 감상하는 특별한 날. 우리 팀을 위한 진정한 몰입형 경험입니다。",
-                "jp": "日本の伝統文化を探求し、鑑賞することに特化したユニークな一日。私たちのチームにとって真に没入型の体験でした。"
+                "en": "August 14, 2019",
+                "cn": "2019年8月14日",
+                "kr": "2019년 8월 14일",
+                "jp": "令和元年8月14日"
             }
         },
         "details": {
             "mainTitle": {
-                "en": "Immersive Japanese Cultural Experience",
-                "cn": "沉浸式日本文化体验",
-                "kr": "몰입형 일본 문화 체험",
-                "jp": "日本の伝統文化体験"
+                "en": "Safety production praying ceremony",
+                "cn": "安全生产祈愿仪式",
+                "kr": "무재해 안전기원제",
+                "jp": "安全生産祈願祭"
             },
             "contentBlocks": [
-                {
-                    "type": "paragraph",
-                    "text": {
-                        "en": "To foster global understanding and appreciation, our team participated in a special Japanese cultural exchange day. We delved into the intricacies of traditional arts.",
-                        "cn": "为了促进全球理解和欣赏，我们的团队参加了一个特殊的日本文化交流日。我们深入探讨了传统艺术的复杂性。",
-                        "kr": "글로벌 이해와 감사를 증진하기 위해 우리 팀은 특별한 일본 문화 교류의 날에 참여했습니다. 우리는 전통 예술의 미묘한 점들을 탐구했습니다。",
-                        "jp": "グローバルな理解と感謝を育むため、チームは特別な日本の異文化交流デーに参加しました。伝統芸術の奥深さに触れました。"
-                    }
-                },
+
                 {
                     "type": "image_group",
                     "images": [
-                        { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_tea.jpg", "alt": { "en": "Tea ceremony", "cn": "茶道", "kr": "다도", "jp": "茶道" } },
-                        { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_cultural_kimono.jpg", "alt": { "en": "Kimono experience", "cn": "和服体验", "kr": "기모노 체험", "jp": "着物体験" } }
+                        { "url": "https://i.ibb.co/yBsybZzY/20190814001.jpg", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." }  }
                     ],
                     "caption": {
-                        "en": "Learning the art of tea ceremony and trying on traditional kimonos.",
-                        "cn": "学习茶道艺术和体验传统和服。",
-                        "kr": "다도 예술을 배우고 전통 기모노를 입어보는 것。",
-                        "jp": "茶道の作法を学び、伝統的な着物を試着しました。"
+                        "en": "..",
+                        "cn": ".",
+                        "kr": ".",
+                        "jp": "."
                     }
                 },
                 {
                     "type": "paragraph",
                     "text": {
-                        "en": "The day was a truly enriching experience, offering insights into Japan's rich heritage and bringing our diverse team closer together.",
-                        "cn": "这一天是一次真正丰富的体验，让我们深入了解了日本丰富的文化遗产，并使我们多元化的团队更加紧密地团结在一起。",
-                        "kr": "이 날은 일본의 풍부한 유산에 대한 통찰력을 제공하고 다양한 팀을 더욱 가깝게 만드는 진정으로 풍요로운 경험이었습니다。",
-                        "jp": "この日は本当に豊かな体験であり、日本の豊かな遗産への洞察を提供し、多様な 팀을 더욱 가깝게 만드는 진정으로 풍요로운 경험이었습니다。"
+                        "en": "On August 14, 2019, all staff of Tianjin Samsung Electric Co., Ltd. held a safety production praying ceremony with the owner. I hope that this project can be completed safely and smoothly.",
+                        "cn": "2019年8月14日，天津三星电机项目全体人员同业主方一起进行了安全生产祈愿仪式。祈愿此次项目安全无事故、顺顺利利的完成。",
+                        "kr": "2019 년 8 월 14 일 에 천진 삼 성전 기 프로젝트 의 전체 인원 이 동업 주 측 과 함께 안전 생산 기원 식 을 진행 했다.이번 프로젝트 의 무사 고, 순 조로 운 성공 을 기원 합 니 다.",
+                        "jp": "遗産への洞察を提供し"
                     }
                 }
             ]
