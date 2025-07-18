@@ -196,21 +196,21 @@
                 {
                     "type": "paragraph",
                     "text": {
-                        "en": "Our annual summer retreat took us to a beautiful lakeside resort. The goal was to relax, recharge, and strengthen our team bonds outside the office environment.",
-                        "cn": "123我们的年度夏日团建活动将我们带到了一个美丽的湖畔度假村。目标是在办公室环境之外放松、充电并加强团队凝聚力。",
-                        "kr": "매년 여름 워크숍은 아름다운 호수 리조트로 우리를 데려갔습니다. 목표는 사무실 환경 밖에서 휴식을 취하고 재충전하며 팀 유대감을 강화하는 것이었습니다。"
+                        "en": "The blue sky connects with the vast ocean, and the gentle sea breeze brings a refreshing feeling away from the hustle and bustle.",
+                        "cn": "碧蓝的天空与浩瀚的海洋连成一线，海风轻抚，带来远离尘嚣的清新。",
+                        "kr": "푸른 하늘은 드넓은 바다와 한 줄기로 연결되어 해풍이 가볍게 어루만지며 먼지에서 멀리 떨어진 청신함을 가져다 준다."
                     }
                 },
                 {
                     "type": "image_group",
                     "images": [
-                        { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } },
-                        { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } }
+                        { "url": "https://i.ibb.co/PZRXHQvx/20240913006.jpg", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } },
+                        { "url": "https://i.ibb.co/pr53XzF6/20240913004.png", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } }
                     ],
                     "caption": {
-                        "en": "The stunning views welcomed us as we kicked off our retreat.",
-                        "cn": "当我们开启团建时，迷人的景色迎接了我们。",
-                        "kr": "우리가 워크숍을 시작할 때 멋진 풍경이 우리를 맞이했습니다。"
+                        "en": "On this isolated island far away from the world, surrounded by a barbecue fire, in the warm breeze, everyone is laughing and cheering, uplifting their spirits.",
+                        "cn": "在这远离尘世的孤岛上，围绕着烤肉的篝火，在和煦的微风中，大家欢声笑语，振作精神。",
+                        "kr": "속세에서 멀리 떨어진 이 외딴 섬에서는 고기를 굽는 모닥불을 둘러싸고 따뜻한 미풍 속에서 모두 즐겁게 웃고 정신을 차렸다."
                     }
                 }
             ]
@@ -248,18 +248,16 @@
                 {
                     "type": "paragraph",
                     "text": {
-                        "en": "Our recent innovation sprint brought together cross-functional teams to tackle some of our most challenging business problems with fresh perspectives. The energy in the room was palpable as ideas flowed freely.",
-                        "kr": "2023年6月16日，회사는 새로운 발전 단계에 올라섰습니다。 상하이 쑹장구 연동 유구_PARK에 새로운 사무실을 매입하고 22동 2층의 넓고 밝은 사무실로 이전하였습니다。 ",
-                        "cn": "123我们最近的创新冲刺汇集了跨职能团队，以全新的视角解决我们最具挑战性的一些业务问题。会议室里创意迸发，气氛活跃。"
+                        "en": "On June 16, 2023, the Shanghai branch moved into a new office with its own property rights.",
+                        "kr": "2023년 6월 16일, 상해지사는 자기소유권의 새 사무실로 전입했다.",
+                        "cn": "2023年6月16日，上海分公司迁入自有产权新办公室。"
                     }
                 },
                 {
                     "type": "image_group",
-                    "images": [
-                        {
-                            "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg",
-                            "alt": { "en": "Workshop in progress", "cn": "工作坊进行中", "kr": "워크숍 진행 중" }
-                        }
+                   "images": [
+                        { "url": "https://i.ibb.co/RpLkrSpF/20230616001.png", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } },
+                        { "url": "https://i.ibb.co/nN6JF3Ts/20230616002.png", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } }
                     ],
                     "caption": {
                         "en": "ceremony",
@@ -270,16 +268,16 @@
                 {
                     "type": "paragraph",
                     "text": {
-                        "en": "모든 직원들은 열정으로 가득 차 있으며 회사의 순조로운 이전과 사업의 성공을 진심으로 기원합니다! 회사 이전 기념의 순간, 우리는 장기간 우리를 지원하고 인정해 준 전국의 협력 파트너들에게 특별히 감사드립니다. 우리는 함께 손잡고 더 아름다운 미래를 만들어 나가길 바랍니다。",
-                        "kr": "모든 직원들은 열정으로 가득 차 있으며 회사의 순조로운 이전과 사업의 성공을 진심으로 기원합니다! 회사 이전 기념의 순간, 우리는 장기간 우리를 지원하고 인정해 준 전국의 협력 파트너들에게 특별히 감사드립니다. 우리는 함께 손잡고 더 아름다운 미래를 만들어 나가길 바랍니다。",
-                        "cn": "从头脑风暴会议到快速原型制作，每个团队都展现了令人难以置信的奉献精神和独创性。许多有前景的概念浮出水面，我们很高兴能进一步探索。"
+                        "en": "Many promising concepts have surfaced, and we are delighted to explore them further.",
+                        "kr": "많은 유망한 개념들이 수면 위로 떠올랐는데, 우리는 더욱 탐색할 수 있어서 매우 기쁘다.",
+                        "cn": "许多有前景的概念浮出水面，我们很高兴能进一步探索。"
                     }
                 },
                 {
                     "type": "image_group",
                     "images": [
                         {
-                            "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg",
+                            "url": "https://i.ibb.co/RTnY15pn/20230616003.png",
                             "alt": { "en": "group photo", "cn": "合照", "kr": "단체 사진" }
                         }
                     ],
