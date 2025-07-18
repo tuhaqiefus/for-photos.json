@@ -111,6 +111,60 @@
 
 
 
+        {
+        "id": "event20250326",
+        "languages": ["en", "cn", "kr", "ru", "jp"],
+        "abstract": {
+            "imageUrl": "https://i.ibb.co/zq0LdXw/20250326001.jpg",
+            "title": {
+                "en": "SEMICON China 2025",
+                "cn": "SEMICON China 2025",
+                "kr": "SEMICON China 2025"
+            },
+            "previewText": {
+                "en": "March 26, 2025",
+                "cn": "2025年3月26日",
+                "kr": "2025년 3월 26일"
+            }
+        },
+        "details": {
+            "mainTitle": {
+                "en": "SEMICON China 2025",
+                "cn": "SEMICON China 2025",
+                "kr": "SEMICON China 2025"
+            },
+            "contentBlocks": [
+                {
+                    "type": "paragraph",
+                    "text": {
+                        "en": "Participated in SEMICON China 2025",
+                        "cn": "参加了SEMICON China 2025",
+                        "kr": "세미콘 차이나 2025에 참가했습니다."
+                    }
+                },
+                {
+                    "type": "image_group",
+                    "images": [
+                        { "url": "https://i.ibb.co/zq0LdXw/20250326001.jpg", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } }
+                    ],
+                    "caption": {
+                        "en": "...",
+                        "cn": "...",
+                        "kr": "..."
+                    }
+                }
+            ]
+        }
+    },
+
+
+
+
+
+
+
+
+    
 
 
 
@@ -121,21 +175,21 @@
         "abstract": {
             "imageUrl": "https://i.ibb.co/5gmDM7vt/20240913005.png",
             "title": {
-                "en": "Summer Retreat: Fun & Connection",
-                "cn": "123夏日团建：乐趣与连结",
-                "kr": "여름 워크숍: 즐거움과 연결"
+                "en": "Journey to Jeju Island",
+                "cn": "济州岛之旅",
+                "kr": "제주도 여행"
             },
             "previewText": {
-                "en": "Our team had an amazing summer retreat, filled with laughter, teamwork, and unforgettable moments. Discover how we bonded!",
-                "cn": "123我们的团队度过了一个美妙的夏日团建，充满欢声笑语、团队合作和难忘的时刻。一起来看看我们是如何建立联系的吧！",
-                "kr": "우리 팀은 웃음과 팀워크, 잊지 못할 순간들로 가득한 멋진 여름 워크숍을 보냈습니다. 우리가 어떻게 유대감을 형성했는지 알아보세요！"
+                "en": "September 13, 2024",
+                "cn": "2024年9月13日",
+                "kr": "2024년 9월 13일"
             }
         },
         "details": {
             "mainTitle": {
-                "en": "Unforgettable Summer Getaway",
-                "cn": "难忘的夏日之旅",
-                "kr": "잊을 수 없는 여름 휴가",
+                "en": "Journey to Jeju Island",
+                "cn": "济州岛之旅",
+                "kr": "제주도 여행",
                 "jp": "忘れられない夏の思い出"
             },
             "contentBlocks": [
@@ -162,6 +216,12 @@
             ]
         }
     },
+
+
+
+
+
+    
     {
         "id": "event20230616",
         "languages": ["en", "kr", "cn"],
@@ -233,6 +293,70 @@
         }
     },
 
+
+
+
+
+
+
+        {
+        "id": "event20200627",
+        "languages": ["en", "cn", "kr", "ru", "jp"],
+        "abstract": {
+            "imageUrl": "https://i.ibb.co/1JmJJKhs/20200627001.jpg",
+            "title": {
+                "en": "Journey to Jeju Island",
+                "cn": "上海分公司开业庆典",
+                "kr": "제주도 여행"
+            },
+            "previewText": {
+                "en": "September 13, 2024",
+                "cn": "2024年9月13日",
+                "kr": "2024년 9월 13일"
+            }
+        },
+        "details": {
+            "mainTitle": {
+                "en": "Journey to Jeju Island",
+                "cn": "济州岛之旅",
+                "kr": "제주도 여행",
+                "jp": "忘れられない夏の思い出"
+            },
+            "contentBlocks": [
+                {
+                    "type": "paragraph",
+                    "text": {
+                        "en": "Our annual summer retreat took us to a beautiful lakeside resort. The goal was to relax, recharge, and strengthen our team bonds outside the office environment.",
+                        "cn": "123我们的年度夏日团建活动将我们带到了一个美丽的湖畔度假村。目标是在办公室环境之外放松、充电并加强团队凝聚力。",
+                        "kr": "매년 여름 워크숍은 아름다운 호수 리조트로 우리를 데려갔습니다. 목표는 사무실 환경 밖에서 휴식을 취하고 재충전하며 팀 유대감을 강화하는 것이었습니다。"
+                    }
+                },
+                {
+                    "type": "image_group",
+                    "images": [
+                        { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } },
+                        { "url": "https://i.imgur.com/6Ksjqz4.png", "alt": { "en": ".", "cn": ".", "kr": ".", "jp": "." } }
+                    ],
+                    "caption": {
+                        "en": "The stunning views welcomed us as we kicked off our retreat.",
+                        "cn": "当我们开启团建时，迷人的景色迎接了我们。",
+                        "kr": "우리가 워크숍을 시작할 때 멋진 풍경이 우리를 맞이했습니다。"
+                    }
+                }
+            ]
+        }
+    },
+
+
+
+
+
+
+
+
+
+
+    
 
     
     {
