@@ -108,7 +108,20 @@
             "cn": "从头脑风暴会议到快速原型制作，每个团队都展现了令人难以置信的奉献精神和独创性。许多有前景的概念浮出水面，我们很高兴能进一步探索。"
 
           }
+        },
+
+{
+          "type": "image_group",
+          "images": [
+            { "url": "https://res.cloudinary.com/your-cloud-name/image/upload/v12345/team-photos/detail_innovation_workshop.jpg", "alt": { "en": "Workshop in progress", "cn": "工作坊进行中" } }
+          ],
+          "caption": { 
+            "en": "Teams collaborating on innovative solutions.", 
+            "cn": "团队协作开发创新解决方案。"
+
+          }
         }
+        
       ]
     }
   },
