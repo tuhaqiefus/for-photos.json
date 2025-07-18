@@ -53,11 +53,15 @@
       ]
     }
   },
+
+
+
+  
   {
     "id": "event20230616",
     "languages": ["en", "kr", "cn"], 
     "abstract": {
-      "imageUrl": "https://i.imgur.com/VBbvPmg.jpeg",
+      "imageUrl": "https://i.ibb.co/4wcNcRhb/20230616004.png",
       "title": { 
         "en": "Shanghai Branch Relocation Celebration", 
         "cn": "上海分公司乔迁庆典"
@@ -108,6 +112,10 @@
       ]
     }
   },
+
+
+
+  
   {
     "id": "event_1",
     "languages": ["en", "cn", "kr", "jp", "ru"],
