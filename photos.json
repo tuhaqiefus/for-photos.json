@@ -194,7 +194,7 @@
         "id": "event_1",
         "languages": ["en", "cn", "kr", "jp", "ru"],
         "abstract": {
-            "imageUrl": "https://i.ibb.co/M5J17TV8/20250527001.png", // 替换了imgur链接
+            "imageUrl": "https://i.ibb.co/M5J17TV8/20250527001.png", 
             "title": {
                 "en": "Safety production praying ceremony",
                 "cn": "安全生产祈愿仪式",
