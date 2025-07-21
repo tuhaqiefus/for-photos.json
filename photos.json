@@ -139,7 +139,7 @@
                     "text": {
                         "en": "Participated in SEMICON China 2025",
                         "cn": "参加了SEMICON China 2025",
-                        "kr": "세미콘 차이나 2025에 참가했습니다."
+                        "kr": "세미콘 차이나 2025에 참석."
                     }
                 },
                 {
@@ -198,7 +198,7 @@
                     "text": {
                         "en": "The blue sky connects with the vast ocean, and the gentle sea breeze brings a refreshing feeling away from the hustle and bustle.",
                         "cn": "碧蓝的天空与浩瀚的海洋连成一线，海风轻抚，带来远离尘嚣的清新。",
-                        "kr": "푸른 하늘은 드넓은 바다와 한 줄기로 연결되어 해풍이 가볍게 어루만지며 먼지에서 멀리 떨어진 청신함을 가져다 준다."
+                        "kr": "푸른 하늘과 광활한 바다가 한 줄기를 이루며, 바닷바람이 부드럽게 불어와 속세에서 벗어난 우리한테 신선함을 선사합니다."
                     }
                 },
                 {
@@ -210,7 +210,7 @@
                     "caption": {
                         "en": "On this isolated island far away from the world, surrounded by a barbecue fire, in the warm breeze, everyone is laughing and cheering, uplifting their spirits.",
                         "cn": "在这远离尘世的孤岛上，围绕着烤肉的篝火，在和煦的微风中，大家欢声笑语，振作精神。",
-                        "kr": "속세에서 멀리 떨어진 이 외딴 섬에서는 고기를 굽는 모닥불을 둘러싸고 따뜻한 미풍 속에서 모두 즐겁게 웃고 정신을 차렸다."
+                        "kr": "속세에서 멀리 떨어진 이 외딴 섬에서는 고기를 굽는 모닥불을 둘러싸고 따뜻한 미풍 속에서 모두 즐겁게 웃으며 재미 있는 시간을 보냈습니다."
                     }
                 }
             ]
@@ -230,7 +230,7 @@
             "title": {
                 "en": "Shanghai branch moves to new location",
                 "cn": "上海分公司乔迁新址",
-                "kr": "상해 지사가 새 주소로 이사하다."
+                "kr": "상해 지사가 새 주소로 이사"
             },
             "previewText": {
                 "en": "June 16th, 2023",
@@ -242,14 +242,14 @@
             "mainTitle": {
                 "en": "Shanghai branch moves to new location",
                 "cn": "上海分公司乔迁新址",
-                "kr": "상해 지사가 새 주소로 이사하다. "
+                "kr": "상해 지사  새 주소로 이사 "
             },
             "contentBlocks": [
                 {
                     "type": "paragraph",
                     "text": {
                         "en": "On June 16, 2023, the Shanghai branch moved into a new office with its own property rights.",
-                        "kr": "2023년 6월 16일, 상해지사는 자기소유권의 새 사무실로 전입했다.",
+                        "kr": "2023년 6월 16일, 상해지사는 자기소유권의 새 사무실로 전입.",
                         "cn": "2023年6月16日，上海分公司迁入自有产权新办公室。"
                     }
                 },
@@ -269,7 +269,7 @@
                     "type": "paragraph",
                     "text": {
                         "en": "Many promising concepts have surfaced, and we are delighted to explore them further.",
-                        "kr": "많은 유망한 개념들이 수면 위로 떠올랐는데, 우리는 더욱 탐색할 수 있어서 매우 기쁘다.",
+                        "kr": "많은 유망한 개념들이 수면 위로 떠올랐는데, 우리는 더 깊이 탐구할 수 있어서 매우 기쁩니다.",
                         "cn": "许多有前景的概念浮出水面，我们很高兴能进一步探索。"
                     }
                 },
@@ -283,7 +283,7 @@
                     ],
                     "caption": {
                         "en": "group photo",
-                        "kr": "함께 찍다",
+                        "kr": "함께 촬영",
                         "cn": "合照"
                     }
                 }
@@ -409,4 +409,3 @@
         }
     }
 ]
-
